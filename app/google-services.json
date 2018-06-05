@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "235853510535",
+    "firebase_url": "https://swordgrill.firebaseio.com",
+    "project_id": "swordgrill",
+    "storage_bucket": "swordgrill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235853510535:android:09546560b4505797",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xv_ord3nUlLQZNtwsGmU80KnVpwFIzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235853510535:android:19d854d51c610108",
+        "android_client_info": {
+          "package_name": "com.swiftsynq.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xv_ord3nUlLQZNtwsGmU80KnVpwFIzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235853510535:android:546d79946e65a555",
+        "android_client_info": {
+          "package_name": "com.swordgill.swordgrill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xv_ord3nUlLQZNtwsGmU80KnVpwFIzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235853510535:android:6b2907a1d9771690",
+        "android_client_info": {
+          "package_name": "com.swordgrill.swordgrill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "235853510535-bgeetavmesgutin32urmvg51srhe5tg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xv_ord3nUlLQZNtwsGmU80KnVpwFIzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
